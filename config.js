@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'SkyDogzz',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Intra 42',
+			icon: 'laptop',
+			link: 'https://profile.intra.42.fr/',
 		},
 		{
 			id: '3',
